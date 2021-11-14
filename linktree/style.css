@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.profile{
+    text-align: center;
+}
+
+body{
+    font-family: 'Poiret One';
+    color: white;
+    background-color: gray;
+}
+
+h1{
+    font-family: 'El Messiri';
+}
+h2{
+    font-size: 12px;
+}
+.avatar{
+    width: 150px;
+    height: auto;
+}
+
+.social{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 0;
+    list-style: none;
+}
+.social img{
+    width: 40px;
+    height: auto;
+}
